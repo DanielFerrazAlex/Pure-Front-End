@@ -1,0 +1,14 @@
+/* Main pagina principal */
+
+.BgAzul {
+    height: 315px;
+    background: var(--azul-escuro);
+}
+
+.DivText {
+    top: 20%;
+    left: 3%;
+    height: 146px;
+    width: 415.06px;
+    position: relative;
+}
