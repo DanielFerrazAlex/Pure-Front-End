@@ -1,5 +1,5 @@
 /* Main pagina principal */
-
+/* parte azul abaixo da header */
 .BgAzul {
     height: 315px;
     background: var(--azul-escuro);
@@ -11,4 +11,115 @@
     height: 146px;
     width: 415.06px;
     position: relative;
+}
+
+.text1 {
+    width: 312px;
+    text-align: center;
+    color: var(--branco);
+    font-family: var(--font-family);
+}
+
+.text1 text {
+    color: var(--amarelo);
+}
+
+.text2 {
+    text-align: center;
+    color: var(--branco);
+    font-family: var(--font-family);
+}
+
+.text3 {
+    left: 5%;
+    top: 15%;
+    height: 36px;
+    display: flex;
+    width: 114.5px;
+    position: relative;
+    align-items: center;
+    border-radius: 25px;
+    justify-content: center;
+    background: var(--azul-claro);
+}
+
+.text3 a {
+    font-weight: bold;
+    color: var(--branco);
+    font-family: var(--font-family);
+}
+
+/* Background amarelo com options */
+.BgAmarelo {
+    top: 370px;
+    width: 100%;
+    height: 123px;
+    display: flex;
+    position: absolute;
+    justify-content: center;
+}
+
+.BgAmarelo section {
+    width: 1100px;
+    height: 123px;
+    display: flex;
+    font-weight: bold;
+    border-radius:8px ;
+    align-items: center;
+    color: var(--branco);
+    justify-content: center;
+    background: var(--amarelo);
+    font-family: var(--font-family);
+}
+
+.DivOptions {
+    height: 90px;
+    width: 1050px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.opt {
+    display: inline-grid;
+}
+
+.linha {
+    width: 2px;
+    height: 48px;
+    border-radius: 10px;
+    background: var(--branco);
+}
+
+.btn-branco {
+    height: 52px;
+    display: flex;
+    width: 167.63px;
+    align-items: center;
+    border-radius: 4px;
+    justify-content: center;
+    background: var(--branco);
+}
+
+.btn-branco h3 {
+    color: var(--preto);
+}
+
+.Opt-Text {
+    height: 36px;
+    width: 165.26px;
+}
+
+.Opt-Btn {
+    width: 169px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    border-radius:  100px;
+    justify-content: center;
+    background: var(--azul-escuro);
+}
+
+.Opt-Btn a {
+    color: var(--branco);
 }
