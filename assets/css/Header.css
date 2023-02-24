@@ -1,0 +1,77 @@
+/* div acima da header */
+.header1 {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    color: var(--branco);
+    justify-content: center;
+    background: var(--azul-escuro);
+    font-family: var(--font-family);
+}
+
+.x {
+    left: 95%;
+    cursor: pointer;
+    position: sticky;
+    font-weight: bold;
+}
+
+/* header */
+.header2 {
+    height: 80px;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    font-family: var(--font-family);
+}
+
+.divheader1 {
+    width: 95%;
+    height: 80px;
+}
+
+.divheader2 {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-links {
+    width: 460px;
+    display: flex;
+    color: var(--azul-escuro);
+    justify-content: space-between;
+}
+
+.logo {
+    width: 150px;
+    height: 38px;
+}
+
+.btn-ui {
+    height: 56px;
+    width: 465px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon {
+    width: 239px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: center;
+    background: var(--azul-claro);
+}
+
+.icon a {
+    color: var(--branco);
+}
+
+.icon-uni {
+    font-size: 25px;
+}
+
