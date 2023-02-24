@@ -1,0 +1,130 @@
+/* Continuação da Main abaixo do texto com vetores da Main1 da primeira pagina  */
+
+.Div-Produts {
+    display: flex;
+    align-items: center;
+    height: 630.8px;
+    background: var(--azul-escuro);
+}
+
+.Div-Prod {
+    width: 100%;
+    display: grid;
+    height: 566.8px;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+}
+
+.Div-ProdutsText {
+    height: 84px;
+    display: flex;
+    width: 1165.81px;
+    justify-content: space-between;
+}
+
+.DivProdutsText1 {
+    width: 716px;
+    height: 84px;
+    display: grid;
+    align-content: center;
+}
+
+.Div-ProdutsText h3 {
+    width: 532px;
+    height: 32px;
+    color: var(--branco);
+    font-weight: bold;
+    font-family: var(--font-family);
+}
+
+.Div-ProdutsText text {
+    font-weight: bold;
+    color: var(--amarelo);
+}
+
+.Div-ProdutsText h5 {
+    height: 32px;
+    width: 536.36px;
+    font-weight: bold;
+    color: var(--branco);
+    font-family: var(--font-family);
+}
+
+.DivProdutsText2 {
+    height: 84px;
+    display: flex;
+    width: 372.83px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ProdutBtn1 {
+    height: 38px;
+    display: flex;
+    width: 90.22px;
+    align-items: center;
+    border-radius: 50px;
+    color: var(--branco);
+    justify-content: center;
+    font-weight: bold;
+    background: var(--azul-claro);
+    font-family: var(--font-family);
+}
+
+.ProdutBtn2 {
+    height: 38px;
+    display: flex;
+    width: 90.22px;
+    font-weight: bold;
+    align-items: center;
+    border-radius: 50px;
+    color: var(--branco);
+    justify-content: center;
+    font-family: var(--font-family);
+}
+
+.ProdutBtn3 {
+    height: 38px;
+    display: flex;
+    width: 90.22px;
+    font-weight: bold;
+    align-items: center;
+    border-radius: 50px;
+    color: var(--branco);
+    justify-content: center;
+    font-family: var(--font-family);
+}
+
+.DivObj-Produts {
+    display: flex;
+    width: 1200.81px;
+    height: 406.8px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Obj-Produts {
+    width: 282.5px;
+    height: 383.8px;
+    border-radius: 10px;
+    background: var(--branco);
+}
+
+.DivObj-Btn {
+    top: 20px;
+    width: 145px;
+    height: 48px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: center;
+    background: var(--azul-claro);
+}
+
+.DivObj-Btn a {
+    font-weight: bold;
+    color: var(--branco);
+    font-family: var(--font-family);
+}

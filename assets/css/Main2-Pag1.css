@@ -1,5 +1,4 @@
-/* Continuação da Main2 abaixo do background amarelo da Main1 da primeira pagina  */
-/* tamanho main */
+/* Continuação da Main abaixo do background amarelo da Main1 da primeira pagina  */
 
 .tMain {
     display: flex;
@@ -18,7 +17,7 @@
 
 .divtext {
     top: 25px;
-    width: 85%;
+    width: 1146.64px;
     height: 80px;
     display: flex;
     font-weight: bold;
