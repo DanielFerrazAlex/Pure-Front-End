@@ -1,5 +1,6 @@
 @import './css/Header.css';
 @import './css/Main1-Pag1.css';
+@import './css/Main2-Pag1.css';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
 * {
@@ -10,6 +11,7 @@
 
 :root {
     --preto: #000000;
+    --cinza: #8A8A8A;
     --branco: #FFFFFF;
     --amarelo: #E9A124;
     --azul-claro: #24B5E9;
